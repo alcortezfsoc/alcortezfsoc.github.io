@@ -30,7 +30,7 @@ var dummyData = {
 "Academic Torrents [English]":"<li><div><p style=text-align:left;color:#a480ff><b>Link:</b></p></div></li><div><p style=text-align:left><a href=https://academictorrents.com/ target=_blank><u>academictorrents.com</u></a></p></div></br><li><div><p style=text-align:left;color:#a480ff><b>Summary:</b></p></li></div><div> <p style=text-align:left> This service is designed to facilitate storage of all the data used in research, including datasets as well as publications. One aim of this site is to create the infrastructure to allow open access journals to operate at low cost. By facilitating file transfers, the journal can focus on its core mission of providing world class research. After peer review the paper can be indexed on this site and disseminated throughout our system.</p></div>",
 
 
-"Ebookelo [Spanish]":"<li><div><p style=text-align:left;color:#a480ff><b>Link:</b></p></div></li><div><p style=text-align:left><a href=https://www.ebookelo.com/ target=_blank><u>ebookelo.com</u></a></p></div></br><li><div><p style=text-align:left;color:#a480ff><b>Summary:</b></p></li></div><div> <p style=text-align:left> Mostly spanish books, but some other languages too. Multiple download methods. Seems to be a ePubLibre mirror.</p></div>",
+"Ebookelo [Spanish]":"<li><div><p style=text-align:left;color:#a480ff><b>Link:</b></p></div></li><div><p style=text-align:left><a href=https://www.ebookelo.com/ target=_blank><u>ebookelo.com</u></a></p></div></br><li><div><p style=text-align:left;color:#a480ff><b>Summary:</b></p></li></div><div> <p style=text-align:left> Mostly spanish books, but some other languages too. Multiple download methods. Seems to be an ePubLibre mirror.</p></div>",
 
 
 
